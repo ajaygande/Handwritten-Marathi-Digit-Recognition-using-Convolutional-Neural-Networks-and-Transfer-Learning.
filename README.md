@@ -99,8 +99,8 @@ All images go through the following 6-step pipeline before training:
 
 ```
 ├── Handwritten_Marathi_Digits_CNN_Portfolio.ipynb   # Main notebook — model, training, evaluation
-├── Research_Paper.docx                               # Published research paper
-└── README.md                                         # Project documentation
+├── Research_Paper.pdf                               # Research paper
+└── README.md                                        # Project documentation
 ```
 
 ---
