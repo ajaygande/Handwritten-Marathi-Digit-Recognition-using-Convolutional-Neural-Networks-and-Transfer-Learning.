@@ -74,7 +74,7 @@ The model uses **MobileNetV2** pre-trained on ImageNet as a feature extractor wi
 
 ## 📁 Dataset
 
-- **Source:** Kaggle — Handwritten Marathi Digits Dataset
+- **Source:** [Kaggle — Handwritten Marathi Digits Dataset](https://www.kaggle.com/datasets/shalakadeore/handwritten-marathi-devanagari-characters)
 - **Total Images:** 1,000 (100 images per class)
 - **Classes:** 10 (Marathi digits ० through ९)
 - **Class Distribution:** Perfectly balanced
