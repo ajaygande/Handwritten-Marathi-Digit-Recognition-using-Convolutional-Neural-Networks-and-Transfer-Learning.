@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20.0-orange?logo=tensorflow)
 ![Accuracy](https://img.shields.io/badge/Accuracy-91%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
