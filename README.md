@@ -110,7 +110,7 @@ pip install tensorflow numpy matplotlib scikit-learn seaborn
 
 **3. Download the dataset**
 
-Download the Handwritten Marathi Digits dataset from Kaggle and place it in the project directory.
+Download the [Handwritten Marathi Digits Dataset](https://www.kaggle.com/datasets/shalakadeore/handwritten-marathi-devanagari-characters) from Kaggle and place it in the project directory.
 
 **4. Run the notebook**
 
