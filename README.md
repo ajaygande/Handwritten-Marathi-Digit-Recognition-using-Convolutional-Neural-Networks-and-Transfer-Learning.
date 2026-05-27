@@ -95,16 +95,6 @@ All images go through the following 6-step pipeline before training:
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── Handwritten_Marathi_Digits_CNN_Portfolio.ipynb   # Main notebook — model, training, evaluation
-├── Research_Paper.pdf                               # Research paper
-└── README.md                                        # Project documentation
-```
-
----
-
 ## 🚀 How to Run
 
 **1. Clone the repository**
