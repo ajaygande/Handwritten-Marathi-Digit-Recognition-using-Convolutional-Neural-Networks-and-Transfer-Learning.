@@ -151,5 +151,5 @@ M.Sc. Data Science — Department of Information Technology
 Dr. G.Y. Pathrikar College of Computer Science and Information Technology
 Chhatrapati Sambhajinagar, Maharashtra, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ajay-gande-5a38b2273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ajay-gande)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ajaygande)
